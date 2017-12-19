@@ -9,3 +9,5 @@ A set of songs will categorized by how similar to each other they sound to us (t
 
 The general idea is to be able to first detect pitch or chord using a trained model. 
 Then the pattern of notes played will be found for a song. The final step would be to match the similarity of the pattern of notes to an existing database of songs. 
+
+Papers that have been published by Juan Bello, a professor at NYU Steinhardt, served as starting points on how to quantify musical qualities. The musical analysis tools that have been utilized in our program to extract musical features from songs come from the Librosa package.
